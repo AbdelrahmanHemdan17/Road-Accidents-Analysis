@@ -30,3 +30,8 @@ the data was recieved as an excel file
 Using power BI i was able to achieve the following 
 ![Screenshot (15)](https://github.com/AbdelrahmanHemdan17/Road-Accidents-Analysis/assets/161534505/6397d839-ff38-4b45-9d40-c80678182b31)
 
+### Action 
+
+- Most of the accidents occur at a speed of 39 Km\H therefore they are mostly slight accident but there is a considerable number of fetal ar serios injuries
+- it seems that most accident occur at friday nights or at the start of the weekend night therefore there must be increased numbers of police officers at these nights
+- the most accidents occur at november which may be denoted to snow at winter
